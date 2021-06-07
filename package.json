@@ -52,6 +52,7 @@
     "commander": "^7.0.0",
     "del": "^6.0.0",
     "dotenv": "9.0.0",
+    "https-proxy-agent": "^5.0.0",
     "pino": "^6.2.1"
   },
   "peerDependencies": {
@@ -86,6 +87,7 @@
     "mochawesome-merge": "4.2.0",
     "mochawesome-report-generator": "5.2.0",
     "prettier": "2.2.1",
+    "proxy-agent": "^4.0.1",
     "rimraf": "3.0.2",
     "s3-batch-upload": "1.5.0",
     "slack-mock-typed": "2.4.0",
